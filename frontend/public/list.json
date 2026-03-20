@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "MERN Stack Developer",
+      "title": "Become a full stack developer with hands-on experience and paid internship",
+      "price": 2999,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Frontend Bootcamp",
+      "title": "Master HTML, CSS, and JavaScript in 8 weeks",
+      "price": 1999,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "React Basics",
+      "title": "Learn React fundamentals with projects",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Node.js API Development",
+      "title": "Build REST APIs with Node.js and Express",
+      "price": 2499,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "UI/UX Design",
+      "title": "Design beautiful and user-friendly interfaces",
+      "price": 1499,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Python for Beginners",
+      "title": "Start coding with Python step by step",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Data Science Essentials",
+      "title": "Learn data analysis and visualization",
+      "price": 3999,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Machine Learning Intro",
+      "title": "Understand ML concepts with simple projects",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Cybersecurity Basics",
+      "title": "Protect systems and networks from threats",
+      "price": 2799,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/5380643/pexels-photo-5380643.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Cloud Computing",
+      "title": "Learn AWS, Azure, and cloud fundamentals",
+      "price": 3499,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "DevOps Fundamentals",
+      "title": "CI/CD pipelines and automation basics",
+      "price": 2999,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/3184463/pexels-photo-3184463.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Database Design",
+      "title": "Learn SQL and NoSQL database systems",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Mobile App Development",
+      "title": "Create apps with React Native",
+      "price": 2499,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "AI for Everyone",
+      "title": "Understand AI concepts without coding",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Blockchain Basics",
+      "title": "Learn how blockchain works",
+      "price": 1999,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Game Development",
+      "title": "Build simple games with Unity",
+      "price": 3499,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/907173/pexels-photo-907173.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Web Security",
+      "title": "Secure your web applications",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Digital Marketing",
+      "title": "Grow your brand online",
+      "price": 1799,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/3184464/pexels-photo-3184464.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Content Writing",
+      "title": "Learn SEO-friendly writing",
+      "price": 0,
+      "category": "free",
+      "image": "https://images.pexels.com/photos/3184466/pexels-photo-3184466.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Entrepreneurship 101",
+      "title": "Start and grow your own business",
+      "price": 3999,
+      "category": "paid",
+      "image": "https://images.pexels.com/photos/3184467/pexels-photo-3184467.jpeg"
+    }
+  ]
+  
